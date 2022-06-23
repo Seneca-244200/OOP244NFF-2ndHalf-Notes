@@ -1,4 +1,4 @@
-# OOP244 NAA ZAA and NFF Notes
+# OOP244 NFF Notes
 
 ## Active Session 
 You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out).
